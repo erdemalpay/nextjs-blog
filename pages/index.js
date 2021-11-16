@@ -20,6 +20,7 @@ export default function Home({allPostsData}) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <div>This is preview page</div>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Merhaba Ben Erdem</p>
